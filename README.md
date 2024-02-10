@@ -16,14 +16,17 @@ is committed to delivering high-quality software products.
 
 <!-- use https://simpleicons.org/ to find icons and colors -->
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&labelColor=121212&color=F7DF1E)
-![Django](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=django&logoColor=white&labelColor=121212&color=F7DF1E)
-![Wagtail](https://img.shields.io/badge/Tool-Wagtail-informational?style=flat&logo=wagtail&logoColor=white&labelColor=121212&color=F7DF1E)
-![Selenium](https://img.shields.io/badge/Tool-Selenium-informational?style=flat&logo=selenium&logoColor=white&labelColor=121212&color=F7DF1E)
 ![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&labelColor=121212&color=F7DF1E)
-![Flutter](https://img.shields.io/badge/Tool-Flutter-informational?style=flat&logo=flutter&logoColor=white&labelColor=121212&color=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
+
+![Django](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=django&logoColor=white&labelColor=121212&color=2496ED)
+![Wagtail](https://img.shields.io/badge/Tool-Wagtail-informational?style=flat&logo=wagtail&logoColor=white&labelColor=121212&color=2496ED)
+![Selenium](https://img.shields.io/badge/Tool-Selenium-informational?style=flat&logo=selenium&logoColor=white&labelColor=121212&color=2496ED)
+![Flutter](https://img.shields.io/badge/Tool-Flutter-informational?style=flat&logo=flutter&logoColor=white&labelColor=121212&color=2496ED)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=121212&color=2496ED)
+
 ![Amazon_AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
+![Firebase](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&labelColor=121212&color=232F3E)
 
 
 ### GITHUB STATS
