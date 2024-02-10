@@ -26,5 +26,5 @@ is committed to delivering high-quality software products.
 ![Amazon_AWS](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazon-aws&logoColor=white&labelColor=121212&color=232F3E)
 
 
-### GitHub stats
+### GITHUB STATS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falamarcao&theme=dark&bg_color=121212)](https://github.com/falamarcao/github-readme-stats)
