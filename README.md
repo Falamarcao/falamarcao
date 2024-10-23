@@ -18,6 +18,7 @@ is committed to delivering high-quality software products.
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&labelColor=121212&color=F7DF1E)
 ![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&labelColor=121212&color=F7DF1E)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
 
 ![Django](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=django&logoColor=white&labelColor=121212&color=2496ED)
 ![Wagtail](https://img.shields.io/badge/Tool-Wagtail-informational?style=flat&logo=wagtail&logoColor=white&labelColor=121212&color=2496ED)
