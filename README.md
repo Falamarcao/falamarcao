@@ -22,8 +22,11 @@ is committed to delivering high-quality software products.
 
 ![Django](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=django&logoColor=white&labelColor=121212&color=2496ED)
 ![Wagtail](https://img.shields.io/badge/Tool-Wagtail-informational?style=flat&logo=wagtail&logoColor=white&labelColor=121212&color=2496ED)
+![FastAPI](https://img.shields.io/badge/Tool-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&labelColor=121212&color=2496ED)
+![Airflow](https://img.shields.io/badge/Tool-Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&labelColor=121212&color=2496ED)
 ![Selenium](https://img.shields.io/badge/Tool-Selenium-informational?style=flat&logo=selenium&logoColor=white&labelColor=121212&color=2496ED)
 ![Flutter](https://img.shields.io/badge/Tool-Flutter-informational?style=flat&logo=flutter&logoColor=white&labelColor=121212&color=2496ED)
+![React](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=react&logoColor=white&labelColor=121212&color=2496ED)
 
 ![GitHub Actions](https://img.shields.io/badge/Tool-GitHub_Actions-informational?style=flat&logo=docker&logoColor=white&labelColor=121212&color=2496ED)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=121212&color=2496ED)
