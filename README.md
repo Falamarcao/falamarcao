@@ -37,4 +37,4 @@ is committed to delivering high-quality software products.
 
 
 ### GITHUB STATS
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falamarcao&theme=dark&bg_color=121212)](https://github.com/falamarcao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falamarcao&theme=dark&bg_color=121212&hide=html,css,jupyter%20notebook&include_forks=false)](https://github.com/falamarcao/github-readme-stats)
