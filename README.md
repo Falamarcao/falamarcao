@@ -2,15 +2,14 @@
 
 ### PROFILE
 
-As a software engineer, I've acquired significant expertise in Python/Django, mobile
-development using Flutter/Dart, Cloud, and Infrastructure services such as AWS and
-Firebase, garnered through diverse projects. My passion for innovation and
-technology has driven my success in the fast-paced development environment.
+👋 Hi! I’m a real human (not a GitHub bot) who enjoys building things and learning along the way 💡
 
-I firmly believe that assuming complete ownership of the software life cycle, from
-design to support, can result in exceptional productivity and efficiency for
-development teams. I am excited to join a team that values a holistic approach and
-is committed to delivering high-quality software products.
+💻 Lately, I’ve been working on a personal project that’s slowly coming together, which has been really fun!
+
+⚙️ I’ve explored web, mobile, data, and DevOps — always curious to try new tools and figure things out
+
+✨ Always chasing creativity, cool projects, and whatever challenge comes next 🚀
+
 
 ### TECH STACK
 
