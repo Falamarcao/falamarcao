@@ -2,13 +2,13 @@
 
 ### PROFILE
 
-👋 Hi! I’m a real human (not a GitHub bot) who enjoys building things and learning along the way 💡
+👋 Hi! I’m a real human (not a GitHub bot) who enjoys building things and learning along the way. 💡
 
 💻 Lately, I’ve been working on a personal project that’s slowly coming together, which has been really fun!
 
-⚙️ I’ve explored web, mobile, data, and DevOps — always curious to try new tools and figure things out
+⚙️ I’ve explored web, mobile, data, and DevOps — always curious to try new tools and figure things out.
 
-✨ Always chasing creativity, cool projects, and whatever challenge comes next 🚀
+✨ Always chasing creativity, cool projects, and whatever challenge comes next! 🚀
 
 
 ### TECH STACK
